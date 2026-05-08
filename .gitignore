@@ -1,0 +1,15 @@
+# Google OAuth credentials — never commit
+credentials.json
+token.json
+
+# Generated data — personal photo data
+data/
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+myenv/
+
+# macOS
+.DS_Store
