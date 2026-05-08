@@ -54,3 +54,7 @@ CSVs are written to `data/`.
 
 - `credentials.json` and `data/` are excluded from git (personal data)
 - Photos deleted via the bulk-delete step go to Trash and are recoverable for 60 days
+
+---
+
+Built with ❤️ for Emalie
